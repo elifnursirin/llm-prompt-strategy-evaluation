@@ -1,0 +1,97 @@
+﻿Model;Metrik;Strateji;Doğruluk;Açıklık;Detay;Bağlama Uygunluk
+GPT-4o;soru-cevap;zero-shot;100;98;92;100
+GPT-4o;soru-cevap;one-shot;95;92;60;85
+GPT-4o;soru-cevap;few-shot;93;95;40;83
+GPT-4o;soru-cevap;chain-of-thought;100;99;96;100
+GPT-4o;soru-cevap;direct-prompting;100;97;98;100
+GPT-4o;soru-cevap;indirect-prompting;100;100;93;100
+GPT-4o;kod-üretimi;zero-shot;100;99;95;100
+GPT-4o;kod-üretimi;one-shot;100;97;91;100
+GPT-4o;kod-üretimi;few-shot;100;98;95;100
+GPT-4o;kod-üretimi;chain-of-thought;100;100;99;100
+GPT-4o;kod-üretimi;direct-prompting;100;95;92;100
+GPT-4o;kod-üretimi;indirect-prompting;100;99;98;100
+GPT-4o;özetleme;zero-shot;100;98;92;100
+GPT-4o;özetleme;one-shot;100;99;89;100
+GPT-4o;özetleme;few-shot;100;98;85;100
+GPT-4o;özetleme;chain-of-thought;100;100;98;100
+GPT-4o;özetleme;direct-prompting;100;100;80;100
+GPT-4o;özetleme;indirect-prompting;100;100;86;100
+GPT-4o;doğruluk;zero-shot;100;100;100;98
+GPT-4o;doğruluk;one-shot;100;100;85;100
+GPT-4o;doğruluk;few-shot;100;100;85;100
+GPT-4o;doğruluk;chain-of-thought;100;100;100;99
+GPT-4o;doğruluk;direct-prompting;100;100;95;100
+GPT-4o;doğruluk;indirect-prompting;100;100;98;100
+Claude Sonnet 4;soru-cevap;zero-shot;100;98;100;100
+Claude Sonnet 4;soru-cevap;one-shot;96;95;70;89
+Claude Sonnet 4;soru-cevap;few-shot;85;80;45;75
+Claude Sonnet 4;soru-cevap;chain-of-thought;100;100;98;100
+Claude Sonnet 4;soru-cevap;direct-prompting;100;99;96;100
+Claude Sonnet 4;soru-cevap;indirect-prompting;100;100;97;100
+Claude Sonnet 4;kod-üretimi;zero-shot;100;100;100;95
+Claude Sonnet 4;kod-üretimi;one-shot;100;100;100;95
+Claude Sonnet 4;kod-üretimi;few-shot;100;98;100;100
+Claude Sonnet 4;kod-üretimi;chain-of-thought;100;100;100;100
+Claude Sonnet 4;kod-üretimi;direct-prompting;100;100;100;97
+Claude Sonnet 4;kod-üretimi;indirect-prompting;100;98;100;100
+Claude Sonnet 4;özetleme;zero-shot;100;100;95;100
+Claude Sonnet 4;özetleme;one-shot;100;100;90;100
+Claude Sonnet 4;özetleme;few-shot;100;100;85;100
+Claude Sonnet 4;özetleme;chain-of-thought;100;100;98;100
+Claude Sonnet 4;özetleme;direct-prompting;100;100;85;100
+Claude Sonnet 4;özetleme;indirect-prompting;100;100;100;97
+Claude Sonnet 4;doğruluk;zero-shot;100;100;97;100
+Claude Sonnet 4;doğruluk;one-shot;100;100;80;100
+Claude Sonnet 4;doğruluk;few-shot;100;100;80;100
+Claude Sonnet 4;doğruluk;chain-of-thought;100;100;100;99
+Claude Sonnet 4;doğruluk;direct-prompting;100;100;85;100
+Claude Sonnet 4;doğruluk;indirect-prompting;100;100;97;99
+Grok 3;soru-cevap;zero-shot;100;98;100;100
+Grok 3;soru-cevap;one-shot;96;92;75;90
+Grok 3;soru-cevap;few-shot;92;90;60;90
+Grok 3;soru-cevap;chain-of-thought;100;97;99;100
+Grok 3;soru-cevap;direct-prompting;100;97;96;100
+Grok 3;soru-cevap;indirect-prompting;100;100;97;100
+Grok 3;kod-üretimi;zero-shot;100;85;80;100
+Grok 3;kod-üretimi;one-shot;100;97;95;100
+Grok 3;kod-üretimi;few-shot;100;98;97;100
+Grok 3;kod-üretimi;chain-of-thought;100;99;100;100
+Grok 3;kod-üretimi;direct-prompting;100;80;80;100
+Grok 3;kod-üretimi;indirect-prompting;100;99;98;100
+Grok 3;özetleme;zero-shot;100;98;90;100
+Grok 3;özetleme;one-shot;100;99;88;100
+Grok 3;özetleme;few-shot;100;98;80;100
+Grok 3;özetleme;chain-of-thought;100;100;97;100
+Grok 3;özetleme;direct-prompting;100;100;80;100
+Grok 3;özetleme;indirect-prompting;100;100;95;100
+Grok 3;doğruluk;zero-shot;100;100;95;100
+Grok 3;doğruluk;one-shot;100;100;80;100
+Grok 3;doğruluk;few-shot;100;100;80;100
+Grok 3;doğruluk;chain-of-thought;100;100;99;100
+Grok 3;doğruluk;direct-prompting;100;100;85;100
+Grok 3;doğruluk;indirect-prompting;100;100;90;95
+DeepSeek V3;soru-cevap;zero-shot;100;99;98;100
+DeepSeek V3;soru-cevap;one-shot;98;95;85;90
+DeepSeek V3;soru-cevap;few-shot;85;84;45;72
+DeepSeek V3;soru-cevap;chain-of-thought;100;100;98;100
+DeepSeek V3;soru-cevap;direct-prompting;100;99;99;100
+DeepSeek V3;soru-cevap;indirect-prompting;100;100;97;100
+DeepSeek V3;kod-üretimi;zero-shot;100;99;97;100
+DeepSeek V3;kod-üretimi;one-shot;100;99;98;100
+DeepSeek V3;kod-üretimi;few-shot;100;99;99;100
+DeepSeek V3;kod-üretimi;chain-of-thought;100;99;100;100
+DeepSeek V3;kod-üretimi;direct-prompting;100;99;98;100
+DeepSeek V3;kod-üretimi;indirect-prompting;100;99;100;100
+DeepSeek V3;özetleme;zero-shot;100;100;95;100
+DeepSeek V3;özetleme;one-shot;100;100;90;100
+DeepSeek V3;özetleme;few-shot;100;100;90;100
+DeepSeek V3;özetleme;chain-of-thought;100;100;95;92
+DeepSeek V3;özetleme;direct-prompting;100;100;85;100
+DeepSeek V3;özetleme;indirect-prompting;100;100;100;97
+DeepSeek V3;doğruluk;zero-shot;100;100;96;98
+DeepSeek V3;doğruluk;one-shot;100;100;80;98
+DeepSeek V3;doğruluk;few-shot;100;100;80;98
+DeepSeek V3;doğruluk;chain-of-thought;100;100;99;97
+DeepSeek V3;doğruluk;direct-prompting;100;100;85;97
+DeepSeek V3;doğruluk;indirect-prompting;100;98;90;96
